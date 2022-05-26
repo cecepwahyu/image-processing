@@ -1,0 +1,7 @@
+HOW TO RUN
+by: Cecep Wahyu Cahyana
+
+1. Lakukan installasi package PySimpleGUI dengan cara PIP Install PySimpleGUI, dan package Pillow dengan PIP Install PIL
+2. Buka CMD/Command Prompt, lalu masuk ke direktori tempat menyimpan kode Pythonnya.
+3. Ketikkan python img_viewer.py pada cmd lalu klik enter.
+4. Aplikasi siap digunakan.
